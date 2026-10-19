@@ -79,6 +79,7 @@ You can start contributing by adding the following:
 | [EvoLink](https://evolink.ai/) | [Link](https://evolink.ai/docs) | Unified AI API gateway for 40+ models including video generation (Seedance 2.0, Sora 2, Veo 3.1), image generation, LLMs, and AI music |
 | [deAPI.ai](https://deapi.ai/) | [Link](https://docs.deapi.ai/) | Unified AI inference API on decentralized GPU infrastructure — image generation (Flux), TTS, transcription (Whisper), video generation, OCR, upscaling, background removal, and embeddings |
 | [Agent LLM Router](https://api-catalog-three.vercel.app/blog/free-llm-api) | [Link](https://agent-gateway-kappa.vercel.app/v1/agent-llm/docs) | Unified LLM gateway — route to OpenAI, Anthropic, Google Gemini, Groq, Together AI, DeepSeek through one OpenAI-compatible API. BYOK, response caching, auto retries. 24+ models |
+| [NovAI](https://aiapi-pro.com) | [Link](https://aiapi-pro.com/docs) | Zero-fee gateway to 121 Chinese frontier AI models (DeepSeek, Qwen, GLM, Kimi, Seedance, MiniMax, Hunyuan, CogVideoX) behind one OpenAI-compatible API. 0% platform markup, 5 free-unlimited models, $2 free credit, measured public uptime. |
 | [PixelAPI](https://pixelapi.dev) | [Link](https://pixelapi.dev/docs) | Pay-per-use AI image API offering SDXL, FLUX image generation, background removal, and 4x upscaling. Python and JS SDKs available. |
 
 ## Other AI Tools
